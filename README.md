@@ -7,5 +7,5 @@ To use this code, simply copy the HTML and CSS code into your own project's HTML
 ## Credits
 This code was created by [Aarzoo75](https://twitter.com/Aarzoo75)
 
-Preview
+## Preview
 <img width="950" alt="Screenshot 2023-04-06 150930" src="https://user-images.githubusercontent.com/59678435/230339517-5c0a5cfb-f2df-47e3-b82d-95d8e20ae07f.png">
